@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+}
+h4 {
+    margin: 5px;
+}
+.heading {
+    font-size: xx-large;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+input {
+    width: 90%;
+    padding: 1em;
+    border-radius: 10px;
+    border: 1px solid gray;
+    margin-bottom: 0.5em;
+}
+.pymt-details {
+
+}
+.input-box {
+    margin-top: 10px;
+}
+.input-box button {
+    padding: 1em 3em;
+}
