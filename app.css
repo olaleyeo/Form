@@ -13,7 +13,7 @@ h4 {
     font-style: italic;
     display: flex;
     justify-content: center;
-    margin: 0;
+    margin-top: 1em;
 }
 input {
     width: 90%;
@@ -21,9 +21,6 @@ input {
     border-radius: 10px;
     border: 1px solid gray;
     margin-bottom: 0.5em;
-}
-.pymt-details {
-
 }
 .input-box {
     margin-top: 10px;
